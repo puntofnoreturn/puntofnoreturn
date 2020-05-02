@@ -11,6 +11,8 @@
   </div>
 </template>
 <script>
+import VueMoment from 'vue-moment'
+
 export default {
   async asyncData({ params }) {
     try {

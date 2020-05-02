@@ -1,7 +1,7 @@
 ---
 title: Welcome to the blog
-excerpt: This is 
-date: 2020-05-01
+excerpt: Hey everyone, thanks for coming here to read the blog. If you're not familiar with who I am or what I'm doing...
+date: 2020-05-01T00:00:01-5:00
 ---
 
 ### Welcome!
