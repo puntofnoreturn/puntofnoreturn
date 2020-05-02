@@ -1,0 +1,47 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nixie One', sans-serif;
+    
+}
+
+a {
+    color: #FF5733;
+    text-decoration: none;
+}
+
+p, li {
+    font-size: 1.15em;
+}
+
+.navigation_list {
+    padding: 20px 10px;
+    text-align: left;
+    font-family: 'Rajdhani', sans-serif;
+  }
+.navigation_item {
+    font-size: 1.3em;
+    list-style: none;
+    margin: 0 20px;
+    float: right;
+}
+.brand {
+    font-size: 1.6em;
+    list-style: none;
+    margin: 0 20px;
+    float: left;
+}
+
+.title-area {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.site-title {
+    color: #FF5733;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+
+/* .date-under {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+} */
