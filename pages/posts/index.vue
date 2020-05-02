@@ -15,7 +15,7 @@
                     </nuxt-link>
                 </h3>
                 <div class="content">
-                <p><em>{{ post.attributes.date }}</em></p>
+                <p><em>{{ post.attributes.date | moment("MMMM Do, YYYY") }}</em></p>
                 <p>{{ post.attributes.excerpt }}</p>
                 <p>
                 {{ post.attributes.tags }}
@@ -32,6 +32,8 @@
 </template>
 
 <script>
+import VueMoment from 'vue-moment'
+
 export default {
     async asyncData () {
     const context = await require.context('~/content/posts/', true, /\.md$/)
@@ -39,7 +41,7 @@ export default {
         ...context(key),
         _path: `/posts/${key.replace('.md', '').replace('./', '')}`
     }))
-    return { posts: posts.reverse() }
+    return { posts: posts.sort((a, b) => (a.attributes.date < b.attributes.date) ? 1 : -1) }
     },
     methods: {
     }

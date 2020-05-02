@@ -13,37 +13,23 @@
 
 
       <p>
-        Infrequently updated with random football statistics that I find interesting.  Also sometimes with hot takes.
+        Infrequently updated with random football statistics that I find interesting.
+      </p>
+      <p class="no-pad-bot">
+        Also hot takes.
       </p>
 
+      <span class="sm-txt"><em>Gotta get those clicks</em></span>
 
-      <div class="links">
-        <p><a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a></p>
-        
-      </div>
+
+      
     </div>
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-
 export default {
   components: {
-    Logo
   }
 }
 </script>

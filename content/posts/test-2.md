@@ -1,7 +1,7 @@
 ---
 title: Third post test title
 excerpt: Here's an excerpt from the article - yet another cool thing to have
-date: May 2, 2020
+date: 2020-05-02
 ---
 # Wow look a super cool markdown article
 

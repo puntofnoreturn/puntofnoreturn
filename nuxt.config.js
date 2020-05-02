@@ -37,6 +37,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/vue-moment'
   ],
   /*
   ** Nuxt.js dev-modules
@@ -62,6 +63,7 @@ module.exports = {
   /*
   ** Build configuration
   */
+ 
   build: {
     /*
     ** You can extend webpack config here
