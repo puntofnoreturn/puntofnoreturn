@@ -35,6 +35,12 @@
 import VueMoment from 'vue-moment'
 
 export default {
+    head: {
+        title: 'PuntofnoReturn | Posts',
+        meta: [
+        { hid: 'description', name: 'description', content: 'PuntofnoReturn - a football analytics blog exploring a lot of random things that no one cares about...' }
+        ]
+    },
     async asyncData () {
     const context = await require.context('~/content/posts/', true, /\.md$/)
     const posts = await context.keys().map(key => ({

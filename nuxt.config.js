@@ -18,7 +18,6 @@ module.exports = {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css', type: 'text/css'},
-      // { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/milligram/1.3.0/milligram.css', type: 'text/css'},
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Nixie+One&family=Rajdhani:wght@500&display=swap', type: 'text/css'}
     ]
   },
