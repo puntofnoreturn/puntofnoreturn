@@ -145,5 +145,3 @@ The other thing to keep in mind here is that you still need to pay special-teame
 The tl;dr here is that I spent way too much time analyzing punters. My calcs say that the 2019 All-Pro class might've missed the target, but I'm just a random guy so take that with a grain of salt.  My stats also say that the average punter contributes a reasonable amount of EPA per year (~1.8% of an average team) compared to their compensation (~1.3% salary cap), but that quality punters are wildly underpaid (4.2% EPA vs 1.3% salary cap).
 
 Thoughts and comments always welcome.
-
--Greg
