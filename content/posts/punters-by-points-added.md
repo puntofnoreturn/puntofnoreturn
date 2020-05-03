@@ -97,10 +97,10 @@ Alright, so here's how this shaped out for the 2019 season.  My take is that thi
 |Name|Total Punts|Median EPA|Median Relative EPA|Inside 20 %|Avg. Distance|Last Team|All Pro (3Y)|Ray Guy Award|
 |:---|---:|---:|---:|---:|---:|:---|:---:|:---:|
 |M.Wishnowsky|52|0.12|0.41|44.2%|44.4|SF||x|
-|R.Dixon|69|0.43|0.31|42.0%|45.8|NYG|x||
+|R.Dixon|69|0.43|0.31|42.0%|45.8|NYG|||
 |J.Hekker|65|0.27|0.25|33.8%|46.9|LA|x||
 |K.Huber|75|0.35|0.24|40.0%|44.6|CIN|||
-|M.Dickson|73|0.18|0.23|46.6%|44.5|SEA||x|
+|M.Dickson|73|0.18|0.23|46.6%|44.5|SEA|x|x|
 |S.Martin|76|0.26|0.23|40.8%|44.9|DET|||
 |M.Haack|69|0.16|0.22|33.3%|44.9|MIA|||
 |R.Allen|27|-0.03|0.20|51.9%|41.0|ATL||x|
