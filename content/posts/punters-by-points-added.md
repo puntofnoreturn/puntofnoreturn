@@ -6,7 +6,7 @@ date: 2020-05-03T00:00:01-5:00
 
 ### Punting
 
-Well this is almost certainly the least interesting thing that a person can look at when analyzing football. yet here I am. Analyzing punting statistics.  And lets be honest, I'm almost certainly going to get some pushback on this... 
+Well this is almost certainly the least interesting thing that a person can look at when analyzing football. Yet here I am. Analyzing punting statistics.  And lets be honest, I'm almost certainly going to get some pushback on this... 
 
 Anyways, given that my blog is titled **Punt of no Return**, I thought that this is probably the most fitting thing to start with. Honestly, I didn't come into this analysis expecting to find all too much - maybe that punters were marginally under/overpaid or that all punters were basically interchangeable - yet now that I've spent way too much time looking at this, I have a few points I'd like to discuss.
 
