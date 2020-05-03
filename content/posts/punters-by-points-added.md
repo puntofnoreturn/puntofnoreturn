@@ -25,17 +25,17 @@ So now that we have that, you can see some baseline expected values from punts.
 
 Here's the expected value added from every punt since 2009 - note that the y-axis is cut off at +/-2 since there are a good deal of outliers.  The 'outliers' aren't actually outliers - they're punts returned for touchdowns or muffed punts that were recovered by the punting team - but they make it rather hard to actually read the graph...
 
-![alt text](~assets/punting-epa_full_regression.png "epa_full_regression")
+![alt text](/punting-epa_full_regression.png "epa_full_regression")
 
 For a better picture of how the distribution looks, these are the descriptive statistics if you bucket each punt by the yardline where they occurred (with 99 being on your own 1 yard line).  You'll notice that punts start to become EPA-negative as you move past your own 45 yard line - if you've been paying attention to basically any football broadcast in the past few years, this isn't particularly shocking to you.  Its the reason why more and more teams are going for it on 4th and short around midfield and - given that analytics is becoming a bigger part of football - that's probably only going to keep increasing.
 
-![alt text](~assets/punting-epa_summary_regression "epa_summary_regression")
+![alt text](/punting-epa_summary_regression.png "epa_summary_regression")
 
 Anyways, another interesting thing from the above graph is that expected values from punts actually goes back into the negative territory around your goalline.  There's probably a few aspects coming into play there (punters rushing punts, returns being more likely to end in touchdowns) but for now I'm just going to leave that alone and accept it.  Delving into that is going to be delving into issues with EP/EPA and that would take a lot of additional work.
 
 If you're interested in more descriptive stats on punting, here are the pre-play expected values of each punt with the same yardline bucketing.  Not particularly much to see here honestly - expected value tends to be higher the closer you get to your opponents endzone...
 
-![alt text](~assets/punting-avg_ep_by_position "avg_ep_by_position")
+![alt text](/punting-avg_ep_by_position.png "avg_ep_by_position")
 
 ### Punter Analysis
 
@@ -128,6 +128,7 @@ Alright, so here's how this shaped out for the 2019 season.  My take is that thi
 |C.Jones|50.00|-0.14|-0.11|36.0%|40.9|DAL|||
 
 *Minimum 20 Punts*
+
 *For reference to people who don't pay attention to All Pros, Kern & Way were All-Pros this year.*
 
 I find comfort in the fact that a lot of the highly rated punters by this metric were either recent All-Pros or Ray Guy award winners.  That doesn't make it right, just makes me sleep a bit better...

@@ -8,12 +8,23 @@ a {
     text-decoration: none;
 }
 
+p > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 p, li {
     font-size: 1.15em;
 }
 
 .main-content {
     padding-top: 80px;
+}
+
+
+tr:hover {
+  background-color: #f9f9f9;
 }
 
 /* .navigation_list {
